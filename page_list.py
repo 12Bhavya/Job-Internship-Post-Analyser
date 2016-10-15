@@ -1,3 +1,5 @@
+# Code to collect list of pages with a specific keyword 
+
 import requests
 import json
 import pymysql

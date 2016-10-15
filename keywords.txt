@@ -1,7 +1,7 @@
 List of keywords used to generate page_list
 
 Job/Jobs
-Training/Trainings/Summer Training
-Internship/Internships/Summer Internship
+Training/Trainings/Summer+Training
+Internship/Internships/Summer+Internship
 Placement/Placements
 Startup/Startups

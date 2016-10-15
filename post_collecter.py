@@ -1,3 +1,5 @@
+# Code to collect posts from pages
+
 import requests
 import json
 import pymysql

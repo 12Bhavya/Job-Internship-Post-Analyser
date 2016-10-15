@@ -1,3 +1,5 @@
+# Code to shuffle entire rows in a .csv file
+
 import random
 
 lines = open('file_name.csv').readlines() # Add file name here
